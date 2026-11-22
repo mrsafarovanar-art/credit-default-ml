@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+train_data/
+catboost_info/
+description.xlsx
+*.pq
+*.parquet
+*.csv
+*.zip
+*.pkl
+*.npy
+*.partial
